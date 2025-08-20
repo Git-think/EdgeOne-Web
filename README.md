@@ -1,4 +1,4 @@
-# EdgeOne Pages 网站代理应用
+# EdgeOne Web应用
 
 一个使用腾讯云EdgeOne Pages Functions构建的网站代理应用，允许用户通过EdgeOne边缘节点代理访问任意网站。
 
@@ -71,4 +71,5 @@ page-py/
 ## 参考资源
 
 - [EdgeOne Pages Functions 文档](https://www.tencentcloud.com/document/product/1552)
+
 - [EdgeOne Pages GitHub 模板仓库](https://github.com/TencentEdgeOne/pages-templates) 
